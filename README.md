@@ -4,6 +4,13 @@ Works for Unreal Engine 4.19 -> 5.4 Windows exes.
 
 ## Change Log:
 
+**1.2.2:** <br>
+-Added support for the type of key that can be found in QuidditchChampions-Win64-Shipping.exe <br>
+-Improved code. <br>
+-Fixed a bunch of bugs. <br>
+-I no longer show keys with an entropy score below 3.3 because it's not possible for an AES key to have a score that low. <br>
+-I added a list of known false positives and exclude them from the results. (Will keep improving this list) <br>
+
 **1.2:**  <br>
 -Updated source code. <br>
 -Improved speed. <br>
