@@ -4,6 +4,9 @@ Works for Unreal Engine 4.19 -> 5.4 Windows exes.
 
 ## Change Log:
 
+**1.2.3:** <br>
+-Fixed AES key type 4 support. (Quidditch Champions) <br>
+
 **1.2.2:** <br>
 -Added support for the type of key that can be found in QuidditchChampions-Win64-Shipping.exe <br>
 -Improved code. <br>
