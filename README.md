@@ -4,6 +4,11 @@ Works for Unreal Engine 4.19 -> 5.4 Windows exes.
 
 ## Change Log:
 
+**1.2.5:** <br>
+-Rewrote source code to make the dumpster its own object anyone can use. <br>
+-Improved key signatures. (tool should now work for more games.) <br>
+-Increased the scanner speed. <br>
+
 **1.2.3:** <br>
 -Fixed AES key type 4 support. (Quidditch Champions) <br>
 
